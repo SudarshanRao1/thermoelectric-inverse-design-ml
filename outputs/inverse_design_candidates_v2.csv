@@ -1,0 +1,21 @@
+rank,predicted_ZT,tanimoto_similarity,nearest_composition,closest_reference,passes_filter,source
+1,2.2186,0.9802,Pb0.88Na0.02TeSr0.1,PbTeSr,True,training_top
+2,2.2167,0.9608,Pb0.86Na0.02TeSr0.12,PbTeSr,True,training_top
+3,2.2146,0.9802,Pb0.9Na0.02TeSr0.08,PbTeSr,True,training_top
+4,2.1602,0.7203,K0.03Pb1Te0.7S0.3,PbTe,True,training_top
+5,2.1507,0.7234,K0.025Pb1Te0.7S0.3,PbTe,True,training_top
+6,2.1457,0.7918,Pb1Te0.8S0.2Na0.06,PbNaTe,True,training_top
+7,2.1401,0.7536,Pb1Te0.75S0.25Na0.06,PbNaTe,True,training_top
+8,2.1146,0.8316,Pb1Te0.85S0.15Na0.06,PbNaTe,True,training_top
+9,2.0658,0.8732,Pb1Te0.9S0.1Na0.06,PbNaTe,True,training_top
+10,2.0633,0.7265,K0.02Pb1Te0.7S0.3,PbTe,True,training_top
+11,2.0628,0.9608,Pb0.92Na0.02TeSr0.06,PbTeSr,True,training_top
+12,2.0586,1.0,Yb14MnSb11,Yb14MnSb11,True,GA
+13,2.0243,0.9231,Pb0.9Na0.02Mg0.08Te1,PbNaTe,True,training_top
+14,1.9547,0.956,Pb0.935Na0.02TeSr0.045,PbNaTe,True,training_top
+15,1.938,0.7719,(Pb0.94Mg0.06)0.98Na0.02Te0.8Se0.2,PbNaTe,True,training_top
+16,1.9257,0.7171,Pb1Te0.7S0.3Na0.06,PbNaTe,True,training_top
+17,1.9107,0.9608,Pb0.94Na0.02Sr0.04Te,PbNaTe,True,training_top
+18,1.877,0.7565,	(Pb0.92Mg0.08)0.98Na0.02Te0.8Se0.2,PbNaTe,True,training_top
+19,1.8725,0.7296,K0.015Pb1Te0.7S0.3,PbTe,True,training_top
+20,1.8695,0.7956,(Pb0.97Mg0.03)0.98Na0.02Te0.8Se0.2,PbNaTe,True,training_top
